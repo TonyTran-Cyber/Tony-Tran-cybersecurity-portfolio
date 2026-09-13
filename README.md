@@ -8,7 +8,7 @@ Through my cybersecurity internship, and hands-on labs, I have gained experience
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Security Tools
 - Nmap
@@ -39,9 +39,9 @@ Through my cybersecurity internship, and hands-on labs, I have gained experience
 
 ---
 
-# 🔐 Featured Cybersecurity Projects
+#  Featured Cybersecurity Projects
 
-## 🔎 Web Application Vulnerability Assessment
+##  Web Application Vulnerability Assessment
 
 Performed a web application security assessment using multiple security tools to identify vulnerabilities and security weaknesses.
 
@@ -58,7 +58,7 @@ Performed a web application security assessment using multiple security tools to
 
 ---
 
-## 🛡️ IDS & Honeypot Security Lab
+##  IDS & Honeypot Security Lab
 
 Configured a Dionaea honeypot with Suricata IDS in a virtualized lab environment. An attacker virtual machine was used to generate network scanning activity while Suricata monitored and logged the suspicious traffic.
 
@@ -72,7 +72,7 @@ Configured a Dionaea honeypot with Suricata IDS in a virtualized lab environment
 - Virtual machine configuration
 - Troubleshooting
 
-📁 [View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
+[View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
 
 ---
 
@@ -90,11 +90,11 @@ Analyzed network traffic associated with a malware infection using Wireshark. In
 - IOC identification
 - C2 traffic investigation
 
-📁 [View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
+[View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
 
 ---
 
-# 🎓 Education
+# Education
 
 **Palm Beach State College**
 
@@ -108,7 +108,7 @@ Associate in Computer Programming
 
 ---
 
-# 🏆 Cybersecurity Experience
+# Cybersecurity Experience
 
 
 ### Cybersecurity Internship
@@ -120,7 +120,7 @@ Associate in Computer Programming
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 - **GitHub:** TonyTran-Cyber
 - **Location:** Florida
