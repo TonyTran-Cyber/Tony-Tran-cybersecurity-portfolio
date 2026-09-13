@@ -76,7 +76,7 @@ Configured a Dionaea honeypot with Suricata IDS in a virtualized lab environment
 
 ---
 
-## 🔬 Malware Traffic Analysis & Network Forensics
+## Malware Traffic Analysis & Network Forensics
 
 Analyzed network traffic associated with a malware infection using Wireshark. Investigated the compromised system and suspicious network communications to identify indicators associated with the malicious activity.
 
