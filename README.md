@@ -54,7 +54,7 @@ Performed a web application security assessment using multiple security tools to
 - Web application security testing
 - Vulnerability assessment
 
-📁 [View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
+[View Cybersecurity Internship Projects](https://github.com/TonyTran-Cyber/Project-internship)
 
 ---
 
