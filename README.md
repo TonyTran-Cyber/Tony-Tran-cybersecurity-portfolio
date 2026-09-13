@@ -1,4 +1,4 @@
-# Hi, I'm Tony Tran 👋
+# Hi, I'm Tony Tran
 
 ## Cybersecurity & IT Student
 
